@@ -1,5 +1,3 @@
 library(ggplot2)
 X = read.csv('surface_suction_data.csv')
-#ggplot(X, aes(surface, time)) +  geom_point(position = "dodge2")
-#ggplot(X, aes(surface, time)) +  geom_point()
-ggplot(X, aes(surface, time)) +  geom_jitter(width=0.1, alpha=0.5)
+ggplot(X, aes(Surface, Time)) +  geom_jitter(width=0.1, alpha=0.5)

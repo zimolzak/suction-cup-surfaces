@@ -1,12 +1,12 @@
-surface,time
-corner shelf,0.8
-corner shelf,1.1
-corner shelf,1
-corner shelf,1.5
-desk top,30
-desk top,15
-mat,0.5
-mat,1
-mat,0.5
-floor,0
-floor,0.1
+Surface,Time
+Corner shelf,0.8
+Corner shelf,1.1
+Corner shelf,1
+Corner shelf,1.5
+Desk top,30
+Desk top,15
+Mat,0.5
+Mat,1
+Mat,0.5
+Floor,0
+Floor,0.1
