@@ -1,3 +1,3 @@
 library(ggplot2)
 X = read.csv('surface_suction_data.csv')
-head(X)
+ggplot(X, aes(surface, time)) +  geom_point()
