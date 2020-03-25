@@ -1,0 +1,12 @@
+SURFACE	time (s)
+corner shelf	0.8
+corner shelf	1.1
+corner shelf	1
+corner shelf	1.5
+desk top	30
+desk top	15
+mat	0.5
+mat	1
+mat	0.5
+floor	0
+floor	0.1
